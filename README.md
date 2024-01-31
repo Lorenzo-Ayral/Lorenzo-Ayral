@@ -5,4 +5,4 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-ayral&show_icons=true&theme=radical&layout=donut-vertical)
 
 ## Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzo-ayral&show_icons=true&theme=radical&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzo-ayral&show_icons=true&theme=radical&rank_icon=github&hide=contribs)
